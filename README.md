@@ -1,2 +1,2 @@
-# repo
+# Jak'z repo
 repository
